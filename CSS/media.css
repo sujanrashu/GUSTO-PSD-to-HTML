@@ -1,0 +1,67 @@
+@media(max-width:575px){
+    .head{
+        margin-top: 30px;
+        text-align: center;
+           
+    }
+    .Gusto img{
+        display: none;
+    }
+    .Gusto_img{
+        display:inherit;
+        text-align: center;
+    }
+    .Gusto_img img{
+        width: 180px;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    
+    .banner {
+        min-width: 71vh;
+        
+    }
+    .feature {
+        min-width: 64vh;
+        
+    }
+    .foot p {
+        
+        padding-left: 11px;
+        
+    }
+    .icon{
+        align-items: left;
+    }
+    .end p{
+        text-align: center;
+    }
+
+    .end h6{
+        text-align: center;
+        margin-left: -50px;
+    }
+
+    .social ul li a{
+        margin-left: 35px;
+        margin-right: 45x;
+        padding-right: 15px;  
+        padding-left: 25px;    
+        font-size: 18px;
+        
+    }
+
+    
+.social ul li{
+	padding-left: -20px;
+    padding-right: 42px;  
+	margin-left: 25px;
+    margin-right: 25x;
+    width: 35px;
+    height: 35px;
+    font-size: 25px;
+  
+   
+}
+
+}
