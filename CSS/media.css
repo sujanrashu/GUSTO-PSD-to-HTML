@@ -42,25 +42,27 @@
         margin-left: -50px;
     }
 
+    .social ul{
+        padding-left: 5px;
+        padding-right: 25px;
+    }
     .social ul li a{
-        margin-left: 35px;
+        margin-left: 10px;
         margin-right: 45x;
         padding-right: 15px;  
         padding-left: 25px;    
         font-size: 18px;
         
     }
-
-    
-.social ul li{
-	padding-left: -20px;
-    padding-right: 42px;  
-	margin-left: 25px;
+   
+    .social ul li{
+	padding-left: 10px;
+    padding-right: 32px;  
+	margin-left: 20px;
     margin-right: 25x;
     width: 35px;
     height: 35px;
     font-size: 25px;
-  
    
 }
 
